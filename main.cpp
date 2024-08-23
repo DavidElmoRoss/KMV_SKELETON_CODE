@@ -14,8 +14,8 @@
 Grove_LCD_RGB_Backlight LCD(D14, D15);      // pins for LCD connection(D14,D15) 
                                             // connect LCD to any I2C on Grove Shield
 DigitDisplay segment(D2,D3);                // 4 digit display connected to D2 on Grove Shield
-Serial blue(D1,D0);                         // blue is of class serial (D1,D0) 
-                                            // aka  UART on Grove Shield
+Serial blue(D1,D0);                         // blue is of class serial (D1,D0) aka UART
+                                            // connect bluefruit uart friend to Uart on Shield
 int main()
 {
   printf("Hello World\n");
