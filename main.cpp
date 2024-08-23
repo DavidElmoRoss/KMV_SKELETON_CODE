@@ -1,6 +1,6 @@
 /*
     Title:  SKELETON CODE for LCD, 4 digit Display, and Bluefruit Uart Friend
-    Author: YOUR NAME HERE
+    Author: YOUR NAME HERE and Student Id Number here
     Date:   Today's Date HERE
     Description:    
 */
