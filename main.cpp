@@ -1,5 +1,8 @@
 /*
-    Title:  SKELETON CODE for LCD, 4 digit Display, and Bluefruit Uart Friend
+    Title:  SKELETON CODE for LCD, 4 digit Display, and Bluefruit Uart Friend.
+            Other devices like Temp Sensor, Pot and PIR Motion Detector code will
+	    work as well.
+            You will only have to compile all the files once ONLY.
     Author: YOUR NAME HERE, Lab Section & Student Id Number here
     Date:   Today's Date HERE
     Description:    
