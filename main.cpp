@@ -21,7 +21,7 @@ Serial blue(D1,D0);                         // blue is of class serial (D1,D0) a
                                             // connect bluefruit uart friend to Uart on Shield
 int main()
 {
-  printf("Hello World\n");
-	fflush(stdout);
-	return(0);
+        printf("Hello World\n");	    // prints Hello World on PUTTY screen at 9600 baud
+	fflush(stdout);			    // flushes output buffer to Putty screen
+	return(0);			    // returns to Op system
 }
